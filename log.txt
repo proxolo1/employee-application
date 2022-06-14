@@ -1,0 +1,1 @@
+TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))Error: invalid user inputError: invalid user inputReferenceError: localStorage is not definedReferenceError: fs is not definedReferenceError: readFile is not defined

@@ -1,0 +1,4 @@
+startApplication=require('./function')
+
+
+startApplication()
